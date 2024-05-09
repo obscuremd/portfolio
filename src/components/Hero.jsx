@@ -1,4 +1,4 @@
-import resume from '../assets/Resume.pdf'
+import resume from '../assets/RESUME.pdf'
 import {Cursor, useTypewriter} from 'react-simple-typewriter'
 
 
