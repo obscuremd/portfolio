@@ -1,25 +1,25 @@
-import artisanPage from './assets/artisans/artisans.png';
-import artisan from './assets/artisans/artisan.pdf'
-import huckstersPage from './assets/hucksters/hucksters.png'
+import artisanPage from './assets/artisans/ARTISANS.png';
+import artisan from './assets/artisans/ARTISAN.pdf'
+import huckstersPage from './assets/hucksters/HUCKSTAR.png'
 import hucksters from './assets/hucksters/huckstar.pdf'
-import moviePage from './assets/movie mentor/movie mentor.png'
-import movie from './assets/movie mentor/movie website.pdf'
-import fashionPage from './assets/omosehi/omosehi.png'
-import fashion from './assets/omosehi/fashion website.pdf'
-import connectUs from './assets/connect us/connect us.png'
+import moviePage from './assets/movie mentor/MOVIE MENTOR.png'
+import movie from './assets/movie mentor/MOVIE WEBSITE.pdf'
+import fashionPage from './assets/omosehi/OMOSEHI.png'
+import fashion from './assets/omosehi/FASHION WEBSITE.pdf'
+import connectUs from './assets/connect us/CONNECT US.png'
 import connect from './assets/connect us/connect us.pdf'
-import bankApp from './assets/bank app/bank app.png'
+import bankApp from './assets/bank app/BANK APP.png'
 import bank from './assets/bank app/bank app redesign.pdf'
 import music from './assets/music app/music app redesign.pdf'
-import musicApp from './assets/music app/music app.png'
+import musicApp from './assets/music app/MUSIC APP.png'
 
 
 import youtube from './assets/front end/youtube project.png'
 import pokedex from './assets/front end/pokedex.png'
 import movieweb from './assets/front end/movie website.png'
-import car from './assets/front end/car.png'
-import sticky from './assets/front end/sticky.png'
-import todo from './assets/front end/todo.png'
+import car from './assets/front end/CAR.png'
+import sticky from './assets/front end/STICKY.png'
+import todo from './assets/front end/TODO.png'
 
 import nothing from './assets/front end/nothing.png'
 
