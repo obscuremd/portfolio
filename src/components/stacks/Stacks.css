@@ -1,0 +1,6 @@
+#stacks{
+    transition: ease-in-out 0.5s;
+}
+#stacks:hover{
+    background: #a98f7677;
+}

@@ -1,0 +1,6 @@
+#projects{
+   transition: ease-in-out 0.5s;
+}
+#projects:hover{
+    background: #242948;
+}
