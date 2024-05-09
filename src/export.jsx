@@ -1,6 +1,6 @@
 import artisanPage from './assets/artisans/ARTISANS.png';
 import artisan from './assets/artisans/ARTISAN.pdf'
-import huckstersPage from './assets/hucksters/HUCKSTAR.png'
+import huckstersPage from './assets/hucksters/HUCKSTERS.png'
 import hucksters from './assets/hucksters/huckstar.pdf'
 import moviePage from './assets/movie mentor/MOVIE MENTOR.png'
 import movie from './assets/movie mentor/MOVIE WEBSITE.pdf'
