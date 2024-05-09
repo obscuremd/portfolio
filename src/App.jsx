@@ -1,8 +1,6 @@
-import React from 'react';
 import Hero from './components/Hero';
 import StacksRow from './components/stacks/StacksRow';
-import './app.css'
-import Submit from './components/Submit';
+import './App.css'
 
 function App() {
   return (
@@ -10,7 +8,6 @@ function App() {
       <div className='w-full px-4 py-8 md:px-32 md:py-20 flex flex-col gap-1'>
         <Hero />
         <StacksRow />
-        {/* <Submit/> */}
       </div>
     </div>
   );
